@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="msContact" />
+        <module name="mstask" />
+        <module name="msprojet" />
+        <module name="msprod" />
+        <module name="mscore" />
+        <module name="msuaa" />
+        <module name="msorg" />
+        <module name="msnotif" />
+        <module name="msstorage" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="msContact" options="-parameters" />
+      <module name="mscore" options="-parameters" />
+      <module name="msnotif" options="-parameters" />
+      <module name="msorg" options="-parameters" />
+      <module name="msprod" options="-parameters" />
+      <module name="msprojet" options="-parameters" />
+      <module name="msstorage" options="-parameters" />
+      <module name="mstask" options="-parameters" />
+      <module name="msuaa" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/msnotif/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/msnotif/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-mscontact/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-mscontact/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-mscore/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-mscore/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msorg/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msorg/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msproduit/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msproduit/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msprojet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msprojet/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msstorage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msstorage/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-mstask/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msuaa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spcrm-msuaa/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

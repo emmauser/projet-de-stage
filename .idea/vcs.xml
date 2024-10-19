@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/angular/angular-17-crud-example" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/msnotif" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-mscontact" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-mscore" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-msorg" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-msproduit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-msprojet" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-msstorage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-mstask" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-msuaa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spcrm-mswebapp" vcs="Git" />
+  </component>
+</project>

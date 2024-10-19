@@ -1,0 +1,14 @@
+version: "3.8"
+services:
+  minio:
+    image: minio/minio
+    restart: always
+    environment:
+      MINIO_ROOT_USER: adminminio1
+      MINIO_ROOT_PASSWORD: adminminio1
+    volumes:
+      - C:\stageFin\element\data:/data
+    command: server /data --console-address ":4001"
+    ports:
+      - "4000:9000"
+      - "4001:4001"
